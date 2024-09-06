@@ -24,4 +24,4 @@ Salva a imagem resultante em formato PNG.
 ![](https://www.tibiawiki.com.br/images/2/2d/Alicorn_Ring.gif)
 
 ### Resultado
-![](https://i.ibb.co/wC0Xdbj/output.png)
+![](https://postimg.cc/bd1d7q0H)
